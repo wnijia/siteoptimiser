@@ -694,7 +694,7 @@ display: block;
     background-image: url(../img/section_1_sm_animated.svg);
     background-color: #651FFF;
     background-repeat: no-repeat;
-    margin-top: 70px;
+    /* margin-top: 70px; */
     background-size: contain;
   }
 
@@ -784,7 +784,7 @@ display: block;
     background-image: url(../img/section_1_sm_animated.svg);
     background-color: #651FFF;
     background-repeat: no-repeat;
-    margin-top: 50px;
+    /* margin-top: 50px; */
     background-size: contain;
   }
   .section-2 {
