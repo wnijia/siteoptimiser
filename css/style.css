@@ -578,6 +578,10 @@ button[type="submit"].checkButton:focus {
   margin: 5% 0 5% 0;
 }
 
+.no-padding {
+  padding: 0px !important;
+}
+
 .table td {
   padding: 0.35rem !important;
 } 
