@@ -578,8 +578,8 @@ button[type="submit"].checkButton:focus {
 }
 
 .table td {
-  padding: 0.5rem;
-}
+  padding: 0.5rem !important;
+} 
 
 .table_1 {
   background-image: url(../img/01.svg);
