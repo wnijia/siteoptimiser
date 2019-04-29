@@ -526,6 +526,7 @@ button[type="submit"].checkButton:focus {
 }
 
 .help-item {
+  font-family: Montserrat;
   padding: 5px 0 0 0;
   color: #1F1F6A;
   font-size: 22px;
