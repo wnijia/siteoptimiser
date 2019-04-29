@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="200" viewBox="0 0 100 200">
+  <defs>
+    <clipPath id="clip-Artboard_12">
+      <rect width="100" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_12" data-name="Artboard – 12" clip-path="url(#clip-Artboard_12)">
+    <g id="Group_127" data-name="Group 127" transform="translate(-99.728 -0.206)">
+      <circle id="Ellipse_52" data-name="Ellipse 52" cx="100.103" cy="100.103" r="100.103" fill="#4800cf"/>
+      <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(12.489 12.489)" fill="none" stroke="#fff" stroke-width="1">
+        <circle cx="87.614" cy="87.614" r="87.614" stroke="none"/>
+        <circle cx="87.614" cy="87.614" r="87.114" fill="none"/>
+      </g>
+      <circle id="Ellipse_62" data-name="Ellipse 62" cx="44.744" cy="44.744" r="44.744" transform="translate(55.359 55.359)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
