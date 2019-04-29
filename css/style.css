@@ -563,6 +563,7 @@ button[type="submit"].checkButton:focus {
 /* section-6-case study*/
 .section-6 {
   margin-top: 50px;
+  padding: 5px !important;
 }
 
 .section-6 p {
@@ -570,7 +571,7 @@ button[type="submit"].checkButton:focus {
   font-family: Montserrat;
   font-size: 80px;
   font-weight: 700;
-  padding: 5px;
+
 }
 
 .cases {
